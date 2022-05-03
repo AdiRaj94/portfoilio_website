@@ -1,0 +1,16 @@
+{
+  "name": "portfolio_website",
+  "version": "1.0.0",
+  "description": "Portfolio Website ",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "install": "^0.13.0",
+    "node-sass": "^7.0.1",
+    "npm": "^8.8.0"
+  }
+}
