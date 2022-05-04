@@ -132,7 +132,7 @@ input[class^='btn-']:hover {
     position: absolute;
     top: 0;
     left: 0;
-    width: 80%;
+    width: 100%;
     height: auto;
     list-style: 0; }
   .item-text {
@@ -150,7 +150,7 @@ input[class^='btn-']:hover {
     transition-delay: 300ms; }
   .item-text-wrap {
     position: absolute;
-    width: 100%;
+    width: 80%;
     top: 50%;
     transform: translateY(-50%); }
   .item-text-title {
