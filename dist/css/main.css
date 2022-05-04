@@ -90,6 +90,7 @@ input[class^='btn-']:hover {
   margin: 0 auto 1rem auto; }
 
 .items {
+  background: #f4f4f4;
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   grid-gap: 1rem;
