@@ -18,8 +18,8 @@
         opacity: 0.9;
         top: 0;
         left: 0;
-        width: 80%;
-        height: 80%;
+        width: 60%;
+        height: 60%;
         transform: scale(2) translateX(-75%) translateY(-75%) rotate(-28deg);
         transition: transform 3s cubic-bezier(0.2, 1, 0.3, 1);
     }
@@ -80,7 +80,7 @@
 
     &-text-wrap {
         position: absolute;
-        width: 80%;
+        width: 100%;
         top: 50%;
         transform: translateY(-50%);
     }
